@@ -1,12 +1,12 @@
 # CODEOWNERS — created by GitHub Copilot
 # Date: 2026-07-29
-# Rules below assign ownership to @lide015 by default and for common directories.
+# Updated to include @Claude as an additional owner
 
 # Default owner for the whole repository
-* @lide015
+* @lide015 @Claude
 
 # Owners for specific directories/files
-/.github/ @lide015
-/docs/ @lide015
-/src/ @lide015
-/README.md @lide015
+/.github/ @lide015 @Claude
+/docs/ @lide015 @Claude
+/src/ @lide015 @Claude
+/README.md @lide015 @Claude
